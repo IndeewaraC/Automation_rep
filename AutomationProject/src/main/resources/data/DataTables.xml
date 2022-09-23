@@ -1,0 +1,19 @@
+<DataTables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="file://C:/Automation/xsd/DataTables.xsd" >
+	<Table name="dt_01">
+		<Header>
+			<Column name="testCaseID" type="String" />
+			<Column name="applicationURL" type="String" />
+			<Column name="userName" type="String" />
+			<Column name="password" type="String" />
+		</Header>
+		<Row>
+			<Value>tc_001</Value>
+			<Value>https://www.ebay.com/</Value>
+			<Value></Value>
+			<Value></Value>
+		</Row>
+
+</Table>
+
+</DataTables>

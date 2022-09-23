@@ -1,0 +1,33 @@
+16:38:05,458 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Propery file location : D:\Project\AutomationProject
+16:38:05,474 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Retry Count : 20
+16:38:05,474 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Timeout Period : 30000
+16:38:05,474 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Execution Browser : internet explorer
+16:38:05,984 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: chromedriver_win browser session cleaned successfully
+16:38:06,249 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: IEDriverServer(x64) browser session cleaned successfully
+16:38:06,492 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: iexplore browser session cleaned successfully
+16:38:06,496 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Starting a new selenium webdriver session.
+16:38:08,429 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Started the selenium webdriver session.
+16:38:08,429 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Executing the test case : TS_Home.tc_01
+16:38:08,464 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: Starting the test case..
+16:38:14,300 INFO  com.automationproject.TS_Home: Executing : com.automationproject.LIB_Common : bc_LaunchApplication
+16:38:14,304 INFO  com.automationproject.TS_Home: Step : OPEN : https://www.ebay.com/	|	Result : PASSED	|	Message : Open url [https://www.ebay.com/]
+16:38:14,304 INFO  com.automationproject.TS_Home: Time taken to execute OPEN : https://www.ebay.com/ 7807 ms
+16:38:14,369 INFO  com.automationproject.LIB_Common: Finding Element [ By.xpath: //input[@id='gh-ac'] ]
+16:38:14,496 INFO  com.automationproject.LIB_Common: Element [ By.xpath: //input[@id='gh-ac'] ] Found
+16:38:15,127 INFO  com.automationproject.LIB_Common: Step : TYPE :PG_Login.tf_SearchBox	|	Result : PASSED	|	Message :  Typed value [Book] on Element [PG_Login.tf_SearchBox] with Locator : //input[@id='gh-ac']
+16:38:15,127 INFO  com.automationproject.LIB_Common: Time taken to execute TYPE :PG_Login.tf_SearchBox 8630 ms
+16:38:15,158 INFO  com.automationproject.LIB_Common: Finding Element [ By.xpath: //input[@id='gh-btn'] ]
+16:38:15,283 INFO  com.automationproject.LIB_Common: Element [ By.xpath: //input[@id='gh-btn'] ] Found
+16:38:21,281 INFO  com.automationproject.LIB_Common: Step : CLICK :PG_Login.btn_Search	|	Result : PASSED	|	Message : Clicked on Element [PG_Login.btn_Search] with Locator : //input[@id='gh-btn']
+16:38:21,284 INFO  com.automationproject.LIB_Common: Time taken to execute CLICK :PG_Login.btn_Search 14787 ms
+16:38:21,413 INFO  com.automationproject.LIB_Common: Step : SCREENSHOT :	|	Result : PASSED	|	Message : Screenshot saved at :D:\Project\AutomationProject\Screenshots\This is to verify.png
+16:38:21,413 INFO  com.automationproject.LIB_Common: Time taken to execute SCREENSHOT : 14916 ms
+16:38:22,857 INFO  com.automationproject.LIB_Common: Finding Element [ By.xpath: //h2[text()='All Listings'] ]
+16:38:23,694 INFO  com.automationproject.LIB_Common: Element [ By.xpath: //h2[text()='All Listings'] ] Found
+16:38:23,918 INFO  com.automationproject.LIB_Common: Step : CHECK ELEMENT PRESENT :PG_Login.ele_lblAllListings	|	Result : PASSED	|	Message : Check Element Present on Element [PG_Login.ele_lblAllListings] with Locator : //h2[text()='All Listings']
+16:38:23,919 INFO  com.automationproject.LIB_Common: Time taken to execute CHECK ELEMENT PRESENT :PG_Login.ele_lblAllListings 17422 ms
+16:38:23,921 INFO  com.automationproject.LIB_Common: End of the test case.
+16:38:23,921 INFO  com.automationproject.LIB_Common: Total Time taken to execute the commands : 63562 ms
+16:38:23,922 INFO  com.automationproject.LIB_Common: Time taken to execute Total Time taken to execute the test case :  17424 ms
+16:38:25,458 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: chromedriver_win browser session cleaned successfully
+16:38:25,664 INFO  com.thoughtworks.selenium.SeleneseTestNgHelperVir: IEDriverServer(x64) browser session cleaned successfully

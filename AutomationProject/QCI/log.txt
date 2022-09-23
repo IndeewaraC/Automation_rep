@@ -1,0 +1,170 @@
+2016-07-28 13:58:52.4433|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 13:59:19.1840|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 13:59:32.1174|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 13:59:41.9267|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:00:12.4603|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\2016\POC\dir
+2016-07-28 14:00:12.4603|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:00:12.4603|ERROR|QualityCenterIntegration.QCController|Root\2016\POC\dir folder not found in the QC.
+2016-07-28 14:00:43.9599|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:00:49.1080|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:00:49.7632|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:00:57.9397|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\2016\POC\dir
+2016-07-28 14:00:57.9397|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:24:56.2118|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:24:56.2898|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:24:58.0683|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:25:05.8528|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\2016\POC\dir
+2016-07-28 14:25:05.8528|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:25:05.8528|ERROR|QualityCenterIntegration.QCController|Root\2016\POC\dir folder not found in the QC.
+2016-07-28 14:25:10.8347|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:25:10.8503|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:25:11.4743|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:25:45.8455|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:25:45.8767|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:25:46.5475|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:26:36.3162|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - tsTestSuitName
+2016-07-28 14:27:44.8523|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:27:44.8679|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:27:45.4763|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:28:22.5463|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:28:22.5619|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:28:23.1859|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:31:37.2459|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:31:37.2927|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:31:38.4471|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:34:08.5558|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:34:08.5714|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:34:09.1954|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:34:10.1783|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Subject\ttt\dir
+2016-07-28 14:34:10.1783|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:35:10.4604|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:35:10.4760|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:35:11.0854|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:35:12.3042|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Subject\aaa\ttt
+2016-07-28 14:35:12.3042|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:38:12.1374|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:38:40.8062|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:38:41.4263|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:40:22.0863|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\2016\POC\BillPay\Automation\Android_4.4
+2016-07-28 14:40:22.0863|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:40:45.4597|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:40:47.9859|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:40:48.6810|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:43:15.3527|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:43:16.1688|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:43:16.7898|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:43:32.5834|DEBUG|QualityCenterIntegration.QCController|			TestId: 4	TestName: tc01	
+2016-07-28 14:48:21.9647|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:48:21.9837|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:48:22.6429|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:53:04.7836|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:53:09.2841|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:53:21.5083|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:53:24.5046|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\2016\POC\ttt
+2016-07-28 14:53:24.5056|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-07-28 14:53:24.5056|ERROR|QualityCenterIntegration.QCController|Root\2016\POC\ttt folder not found in the QC.
+2016-07-28 14:55:09.5271|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:55:09.5471|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:55:10.1721|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:55:10.6712|DEBUG|QualityCenterIntegration.QCController|			TestId: 4	TestName: tc01	Fast_Run_6-28_14-48-2	No Run
+2016-07-28 14:55:10.7682|FATAL|QualityCenterIntegration.UpdateTestResultsInQC|Field < Status > requires a value from the corresponding list
+2016-07-28 14:55:10.7682|FATAL|QualityCenterIntegration.UpdateTestResultsInQC|   at TDAPIOLELib.IRun3.set_Status(String pVal)
+   at QualityCenterIntegration.QCController.recordTestResult(TSTest test, String testRun, String status, List`1 screenShots) in c:\VTAF_TFS\QualityCenterIntegration\QualityCenterIntegration\QCController.cs:line 487
+   at QualityCenterIntegration.QCController.RecordTestSetResult(String os, String folderPath, String testPath, String testSuteName, String testCaseName, String testRunName, String testCaseResult, List`1 screenShots) in c:\VTAF_TFS\QualityCenterIntegration\QualityCenterIntegration\QCController.cs:line 318
+   at QualityCenterIntegration.UpdateTestResultsInQC.PushDataToQC(String os, String folderPath, String testSuteName, String testCaseName, String testRunName, String testCaseResult, List`1 screenShots) in c:\VTAF_TFS\QualityCenterIntegration\QualityCenterIntegration\UpdateTestResultsInQC.cs:line 124
+   at QualityCenterIntegration.UpdateTestResultsInQC.Main(String[] args) in c:\VTAF_TFS\QualityCenterIntegration\QualityCenterIntegration\UpdateTestResultsInQC.cs:line 71
+2016-07-28 14:55:20.9902|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:55:38.5440|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:55:44.7566|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:56:37.2298|DEBUG|QualityCenterIntegration.QCController|			TestId: 4	TestName: tc01	Fast_Run_6-28_14-48-2	No Run
+2016-07-28 14:57:07.4299|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:57:09.8041|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:57:10.4292|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:57:13.1864|DEBUG|QualityCenterIntegration.QCController|			TestId: 4	TestName: tc01	Fast_Run_6-28_14-48-2	No Run
+2016-07-28 14:58:34.2155|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:59:00.9882|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 14:59:04.3596|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 14:59:04.9836|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 14:59:05.5417|DEBUG|QualityCenterIntegration.QCController|			TestId: 4	TestName: tc01	Fast_Run_6-28_14-48-2	No Run
+2016-07-28 15:08:45.9437|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 15:08:45.9527|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 15:08:46.5958|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 15:08:47.0908|DEBUG|QualityCenterIntegration.QCController|			TestId: 7	TestName: tc01	
+2016-07-28 15:09:14.1805|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-07-28 15:09:14.1895|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-07-28 15:09:14.8486|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-07-28 15:09:15.4087|DEBUG|QualityCenterIntegration.QCController|			TestId: 7	TestName: tc01	Run2016_01_14_18_11_01PM:adb:SM-N9005	Failed
+2016-08-05 13:42:31.0822|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:42:31.1290|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:42:32.1586|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:42:32.8294|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: tC1	Runtest	Passed
+2016-08-05 13:45:23.3839|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:45:23.3995|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:45:24.0547|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:45:24.2731|WARN|QualityCenterIntegration.QCController|couldn't get TestSetFolder with path Root\Demo\selenium
+2016-08-05 13:45:24.2731|WARN|QualityCenterIntegration.QCController|Node not found.
+2016-08-05 13:45:24.2731|ERROR|QualityCenterIntegration.QCController|Root\Demo\selenium folder not found in the QC.
+2016-08-05 13:47:05.2379|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:47:05.2535|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:47:05.9399|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:47:06.4079|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: tC1	
+2016-08-05 13:50:35.7029|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:50:35.7185|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:50:36.3893|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:50:36.6233|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - Ts1
+2016-08-05 13:51:54.1472|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:51:54.1628|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:51:54.9584|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:51:55.2236|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - TestSuiteOne1
+2016-08-05 13:54:31.9007|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:54:31.9163|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:54:32.5715|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:54:32.8524|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - TestSuiteOne1
+2016-08-05 13:55:14.1995|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:55:14.2151|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:55:14.9796|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:55:15.2292|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - TestSuiteOne1
+2016-08-05 13:55:37.9380|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 13:55:37.9536|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 13:55:38.6400|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 13:55:39.0145|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	
+2016-08-05 14:00:36.3285|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 14:00:36.3441|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 14:00:37.0150|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 14:00:37.3426|ERROR|QualityCenterIntegration.QCController|Specified Test Set not found. Test Set Name - testSuiteOne
+2016-08-05 14:01:52.6064|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 14:01:52.6220|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 14:01:53.3396|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 14:01:53.6984|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	
+2016-08-05 14:12:56.1325|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 14:12:56.1425|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 14:12:56.9917|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 14:12:57.3505|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	
+2016-08-05 14:19:59.2165|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 14:19:59.2321|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 14:20:00.3866|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 14:20:00.8390|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Runtest	Passed
+2016-08-05 14:28:04.1248|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 14:28:04.1404|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 14:28:04.8738|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 14:28:05.2171|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	
+2016-08-05 15:51:55.7564|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 15:51:55.7720|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 15:51:56.4584|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 15:51:56.8796|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Runtest	Failed
+2016-08-05 16:34:06.0272|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-05 16:34:06.0428|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-05 16:34:06.7292|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-05 16:34:07.2440|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Fast_Run_7-5_16-19-45	No Run
+2016-08-09 17:08:15.8640|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-09 17:08:15.8810|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-09 17:08:16.6981|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-09 17:08:17.1652|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Fast_Run_7-5_16-34-31	No Run
+2016-08-10 09:28:01.9237|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-10 09:28:01.9327|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-10 09:28:02.6438|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-10 09:28:03.1978|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Runtest	Passed
+2016-08-10 09:28:55.6601|DEBUG|QualityCenterIntegration.UpdateTestResultsInQC|starting QCIntegration
+2016-08-10 09:28:55.6751|DEBUG|QualityCenterIntegration.QCController|Creating TD connection.
+2016-08-10 09:28:56.3051|INFO|QualityCenterIntegration.QCController|connected to QC project POC
+2016-08-10 09:28:56.8012|DEBUG|QualityCenterIntegration.QCController|			TestId: 15	TestName: testCaseOne	Fast_Run_7-10_9-28-38	No Run

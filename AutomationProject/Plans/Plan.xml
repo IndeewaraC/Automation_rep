@@ -1,0 +1,14 @@
+<suite name="TestSuite" verbose="3" parallel="none" thread-count="0">
+	<test name="Test" preserve-order="true">
+		<classes>
+			<class name="com.automationproject.TS_Home">
+				<methods>
+					<include name="tc_01">
+						<parameter name="browser" value="internet explorer" />
+						<parameter name="url" value="https://www.ebay.com/" />
+					</include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

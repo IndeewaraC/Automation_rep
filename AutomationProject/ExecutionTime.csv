@@ -1,0 +1,8 @@
+
+tc_01
+OPEN : https://www.ebay.com/,7807
+TYPE :PG_Login.tf_SearchBox,8630
+CLICK :PG_Login.btn_Search,14787
+SCREENSHOT :,14916
+CHECK ELEMENT PRESENT :PG_Login.ele_lblAllListings,17422
+Total Time taken to execute the test case : ,17424
